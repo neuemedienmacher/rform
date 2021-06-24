@@ -1,4 +1,5 @@
-import React, { Component, PropTypes } from 'react'
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 import Errors from '../containers/Errors'
 
 export default class ErrorsWrapper extends Component {

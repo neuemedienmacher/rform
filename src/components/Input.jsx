@@ -1,4 +1,5 @@
-import React, { PropTypes, Component } from 'react'
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 import Default from './inputs/Default'
 import FileField from './inputs/FileField'
 import Textarea from './inputs/Textarea'

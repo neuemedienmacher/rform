@@ -1,4 +1,5 @@
-import React, { PropTypes, Component } from 'react'
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 // import ChildComponent from '../../Base/components/ChildComponent'
 
 // A general form helper in the general style of rails' #form_for

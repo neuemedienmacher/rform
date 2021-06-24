@@ -1,4 +1,5 @@
-import React, { PropTypes, Component } from 'react' // import Select from 'react-select'
+import React, { Component } from 'react' // import Select from 'react-select'
+import PropTypes from 'prop-types'
 import Label from '../wrappers/Label'
 import Errors from '../wrappers/Errors'
 import Input from '../wrappers/Input'
